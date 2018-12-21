@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+主要利用Json数据来进行元素的显示，整体界面比较漂亮。
+侧边栏只实现了部分功能。
+UI漂亮，功能应该还算比较齐全吧。以5.0的手机屏幕进行的开发和测试，在不同的大小的屏幕上显示应该会略有不同，但是安卓手机屏幕普遍比较大，应该不会出现无法显示或者溢出的情况。
